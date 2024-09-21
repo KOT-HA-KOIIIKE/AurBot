@@ -1,0 +1,10 @@
+Solar Wind Speed: 375.0 km/s
+Flux: 154 sfu
+Bt: 5 nT
+Bz: 2 nT
+Storm: G 
+Kp: 2.00
+
+Time to Earth: 66.7 minutes
+Location: north to 65°
+Visibility: NO 😿 (G = 0, Bz ≥ 0)
